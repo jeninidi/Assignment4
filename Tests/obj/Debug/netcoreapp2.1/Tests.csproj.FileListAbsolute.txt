@@ -1,0 +1,16 @@
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.csprojAssemblyReference.cache
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfoInputs.cache
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.AssemblyInfo.cs
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Tests.deps.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Tests.runtimeconfig.dev.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Tests.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Tests.pdb
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Assignment4.1.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/bin/Debug/netcoreapp2.1/Assignment4.1.pdb
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.csproj.CopyComplete
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Tests/obj/Debug/netcoreapp2.1/Tests.pdb
