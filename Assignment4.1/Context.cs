@@ -15,7 +15,7 @@ namespace Assignment4._1
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseNpgsql("host=localhost;db=library;uid=postgres;pwd=root");
+            optionsBuilder.UseNpgsql("host=localhost;db=northwind;uid=postgres;pwd=root");
             // you only need this if you want to see the SQL statments created
             // by EF
             optionsBuilder.UseLoggerFactory(MyLoggerFactory)
