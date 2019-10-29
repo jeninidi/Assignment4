@@ -147,7 +147,7 @@ namespace Assignment4._1
                 var orders = context.OrderDetails
                     .Where(o => o.ProductId == id)
                     .Include(o => o.Order)
-                    .OrderBy(p => p.Order.Date)
+                    //.OrderBy(p => p.Order.Date)
                     .ToList();
                 return orders.Count == 0 ? null : orders;
             }
