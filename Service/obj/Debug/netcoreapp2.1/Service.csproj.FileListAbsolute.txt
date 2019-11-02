@@ -1,0 +1,13 @@
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Service.deps.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Service.runtimeconfig.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Service.runtimeconfig.dev.json
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Service.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Service.pdb
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Assignment4.1.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/bin/Debug/netcoreapp2.1/Assignment4.1.pdb
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.csprojAssemblyReference.cache
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.AssemblyInfoInputs.cache
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.AssemblyInfo.cs
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.csproj.CopyComplete
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.dll
+/Users/zhenidimitrova/Projects/Assignment4.1/Service/obj/Debug/netcoreapp2.1/Service.pdb

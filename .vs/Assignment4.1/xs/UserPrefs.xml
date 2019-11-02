@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{AD58DB71-320F-479C-A65C-5BCA33B33726}|Default">
   <MonoDevelop.Ide.ItemProperties.Assignment4.1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment4.1/DataService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/UnitTest2.cs">
     <Files>
-      <File FileName="Tests/UnitTest1.cs" Line="210" Column="1" />
-      <File FileName="Assignment4.1/Context.cs" Line="8" Column="37" />
-      <File FileName="Assignment4.1/OrderDetails.cs" Line="1" Column="1" />
-      <File FileName="Assignment4.1/DataService.cs" Line="1" Column="1" />
-      <File FileName="Assignment4.1/Product.cs" Line="1" Column="1" />
+      <File FileName="Service/Startup.cs" Line="1" Column="1" />
+      <File FileName="Service/Program.cs" Line="9" Column="32" />
+      <File FileName="Tests/UnittTest2.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
           <Node name="Assignment4.1" expanded="True">
-            <Node name="Assignment4.1" expanded="True">
-              <Node name="DataService.cs" selected="True" />
-            </Node>
+            <Node name="Service" expanded="True" selected="True" />
             <Node name="Tests" expanded="True" />
           </Node>
         </State>
@@ -25,8 +21,8 @@
           <Node name="Assignment4.1" expanded="True">
             <Node name="Tests" expanded="True">
               <Node name="Tests" expanded="True">
-                <Node name="UnitTest1" expanded="True">
-                  <Node name="GetOrderDetailByProductId_ValidId_ReturnsOrderDateUnitPriceAndQuantity" selected="True" />
+                <Node name="UnitTest2" expanded="True">
+                  <Node name="ApiCategories_DeleteWithInvalidId_NotFound" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -39,9 +35,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/zhenidimitrova/Projects/Assignment4.1/Tests/UnitTest1.cs" relfile="Tests/UnitTest1.cs" line="203" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
